@@ -27,3 +27,8 @@ Dedicated tools for easy debugging: React comes with a range of dedicated tools 
 What is the name of the Software Engineer that created React? Also, which company owns React?
 
 The name of the software Engineer that created React is Jordan Walke and Meta formerly called Facebook owns React.
+
+What are the notable differences between HTML & JSX? Give at least 3 of them
+Syntax: HTML has its own syntax, while JSX is a combination of JavaScript and HTML syntax.
+Custom elements: HTML has a predefined set of elements, while in JSX, you can define custom elements.
+Attributes: In HTML, attributes are defined using the attribute="value" syntax, whereas in JSX, they are defined using the attribute={value}.
