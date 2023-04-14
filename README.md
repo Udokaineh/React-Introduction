@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+List five significant features of React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+JSX - React allows you to write HTML-like code using a syntax called JSX, which makes it easy to create and manipulate the components that make up your UI.
 
-## Available Scripts
+Virtual DOM - React uses a virtual representation of the DOM to optimize rendering performance by minimizing updates and re-renders. Instead of updating the entire DOM when changes occur, React compares the virtual DOM to the actual DOM and only updates the parts that have changed.
 
-In the project directory, you can run:
+Performance - React's virtual DOM and efficient rendering algorithm make it a highly performant library for building web applications. It also has tools like React Profiler and React DevTools to help developers optimize performance.
 
-### `npm start`
+Debugging - React provides a number of tools to help developers debug their applications. The React Developer Tools browser extension, for example, allows you to inspect the components and their state and props in real-time.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Extension - React is highly extensible, which means it can be easily integrated with other libraries and frameworks to build powerful and complex applications. For example, you can use React with Redux to manage your application state or with React Native to build mobile apps.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+List five major advantages of React
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Reusable components: React's component-based architecture allows developers to create reusable UI components, which can save time and effort in development and help to maintain consistency throughout an application.
 
-### `npm run build`
+Easy to learn: React is relatively easy to learn compared to other web development frameworks, thanks to its simple syntax and well-documented API. This means developers can get up to speed quickly and start building applications faster.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Improved performance: React's use of a virtual DOM and efficient rendering algorithm helps to improve the performance of web applications, resulting in faster load times and smoother user experiences.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Development of both web and mobile apps: React can be used to develop both web and mobile applications, thanks to frameworks like React Native. This allows developers to build cross-platform applications with a single codebase, reducing development time and costs.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Dedicated tools for easy debugging: React comes with a range of dedicated tools and extensions that make debugging and testing applications easier. This includes the React Developer Tools browser extension, which allows developers to inspect and debug React components directly in the browser.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+What is the name of the Software Engineer that created React? Also, which company owns React?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The name of the software Engineer that created React is Jordan Walke and Meta formerly called Facebook owns React.
